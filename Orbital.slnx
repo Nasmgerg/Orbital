@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Evaluation/Evaluation.csproj" Id="d2377665-6975-4eb7-ae1e-5bd213c29187" />
+  <Project Path="Orbital/Orbital.csproj" />
+</Solution>
